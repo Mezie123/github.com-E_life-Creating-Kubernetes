@@ -1,5 +1,6 @@
 Step by Step Methods to Creat Kubernetes Cluster on AWS Environment 
 ####################################################################
+    # We love Git
     1.) Create Ubuntu EC2 instance of your choice 
 
     2.) install AWSCLI on the Ubuntu Instance by running the following commands
